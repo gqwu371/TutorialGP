@@ -1,3 +1,5 @@
+这篇介绍虽然没有介绍sparsegp,但介绍了核函数的参数选取，后期可以再看
+
 # [Tutorial on Gaussian Processes](https://maziarraissi.github.io/TutorialGP/)
 
 This is a short tutorial on Gaussian Processes, Multi-fidelity Gaussian Processes, Gaussian Processes for Differential Equations, and Bayesian Optimization.
